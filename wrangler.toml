@@ -7,7 +7,7 @@ port = 8787
 local_protocol = "http"
 
 [env.vars]
-CUSTOM_DOMAIN = "mirror.zhihuianxin.cn"
+CUSTOM_DOMAIN = "mirrors.zhihuianxin.cn"
 
 [env.dev.vars]
 MODE = "debug"
